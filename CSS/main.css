@@ -1,0 +1,21 @@
+.bookMarkerInputs {
+    background-color:rgb(238, 238, 238); ;
+}
+
+.bookMarkerInputs input{
+    height: 30px;
+}
+
+.bookMarkerInputs input:focus{
+    box-shadow: none;
+    border: 2px solid #000;
+}
+
+h2, p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.outPutContnet{
+    background-image: linear-gradient(rgb(238, 238, 238), rgb(255, 255, 255));
+}
+
